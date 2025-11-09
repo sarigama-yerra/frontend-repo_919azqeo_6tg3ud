@@ -1,11 +1,11 @@
-import { Brain, Globe, LineChart, MessageSquareLightning, Sparkles, Wallet } from 'lucide-react';
+import { Brain, Globe, LineChart, MessageSquare, Sparkles, Wallet } from 'lucide-react';
 
 export default function Values() {
   const items = [
     {
       title: 'Instant Answers',
       desc: 'Replies in < 1 second, 24/7.',
-      icon: MessageSquareLightning,
+      icon: MessageSquare,
     },
     {
       title: 'Personal Concierge',
